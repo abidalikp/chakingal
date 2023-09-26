@@ -1,0 +1,327 @@
+{
+  "name": "Ali",
+  "attributes": {
+    "partner": "Fathima"
+  },
+  "children": [
+    {
+      "name": "Subaida",
+      "attributes": {
+        "partner": "Ali K"
+      },
+      "children": [
+        {
+          "name": "Farhad Ali",
+          "attributes": {
+            "partner": "Jamshi Mol"
+          },
+          "children": [
+            {
+              "name": "Farha"
+            },
+            {
+              "name": "Abid"
+            },
+            {
+              "name": "Afsar"
+            }
+          ]
+        },
+        {
+          "name": "Lubna",
+          "attributes": {
+            "partner": "Shahul Hameed"
+          },
+          "children": [
+            {
+              "name": "Fathima"
+            },
+            {
+              "name": "Ibrahim"
+            },
+            {
+              "name": "Zainab"
+            },
+            {
+              "name": "Hind"
+            }
+          ]
+        },
+        {
+          "name": "Febina",
+          "attributes": {
+            "partner": "Faisal"
+          },
+          "children": [
+            {
+              "name": "Faizan"
+            },
+            {
+              "name": "Faihan"
+            },
+            {
+              "name": "Faizeen"
+            }
+          ]
+        },
+        {
+          "name": "Farhan Ali",
+          "attributes": {
+            "partner": "Ansiya"
+          },
+          "children": [
+            {
+              "name": "Hala Nourin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rasiya",
+      "attributes": {
+        "partner": "Ali"
+      },
+      "children": [
+        {
+          "name": "Sufaija",
+          "attributes": {
+            "partner": "Shabeer"
+          },
+          "children": [
+            {
+              "name": "Raiza"
+            },
+            {
+              "name": "Rahan"
+            },
+            {
+              "name": "Rizal"
+            }
+          ]
+        },
+        {
+          "name": "Safwan",
+          "attributes": {},
+          "children": []
+        },
+        {
+          "name": "Safnas",
+          "attributes": {
+            "partner": "Fathima"
+          },
+          "children": []
+        },
+        {
+          "name": "Souban",
+          "attributes": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Sadiq",
+      "attributes": {
+        "partner": "Zeenath"
+      },
+      "children": [
+        {
+          "name": "Sabiq"
+        },
+        {
+          "name": "Abid"
+        },
+        {
+          "name": "Amjad"
+        },
+        {
+          "name": "Zia"
+        },
+        {
+          "name": "Zahir"
+        }
+      ]
+    },
+    {
+      "name": "Safiya",
+      "attributes": {
+        "partner": "Mohammed Ali "
+      },
+      "children": [
+        {
+          "name": "Jildisha",
+          "attributes": {
+            "partner": "Abid Ali"
+          },
+          "children": [
+            {
+              "name": "Ashfaq"
+            },
+            {
+              "name": "Fathima"
+            },
+            {
+              "name": "Adnan"
+            }
+          ]
+        },
+        {
+          "name": "Mehnas",
+          "attributes": {
+            "partner": "Sulthana"
+          },
+          "children": [
+            {
+              "name": "Kenzy"
+            },
+            {
+              "name": "Dua"
+            }
+          ]
+        },
+        {
+          "name": "Daliya",
+          "attributes": {
+            "partner": "Shabeer"
+          },
+          "children": [
+            {
+              "name": "Riza"
+            },
+            {
+              "name": "Jeza"
+            },
+            {
+              "name": "Heza"
+            }
+          ]
+        },
+        {
+          "name": "Abdulla",
+          "attributes": {},
+          "children": []
+        },
+        {
+          "name": "Abdurahman",
+          "attributes": {},
+          "children": []
+        },
+        {
+          "name": "Ameen",
+          "attributes": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Mumthas",
+      "attributes": {
+        "partner": "Anas K"
+      },
+      "children": [
+        {
+          "name": "Leena",
+          "attributes": {
+            "partner": "Abdul Kadar"
+          },
+          "children": [
+            {
+              "name": "Hani"
+            },
+            {
+              "name": "Deena"
+            },
+            {
+              "name": "Deema"
+            },
+            {
+              "name": "Hami"
+            },
+            {
+              "name": "Hamthim"
+            }
+          ]
+        },
+        {
+          "name": "Nada",
+          "attributes": {
+            "partner": "Abdul Rasheed"
+          },
+          "children": [
+            {
+              "name": "Rana"
+            },
+            {
+              "name": "Raya"
+            },
+            {
+              "name": "Razi"
+            },
+            {
+              "name": "Raha"
+            },
+            {
+              "name": "Raed"
+            }
+          ]
+        },
+        {
+          "name": "Hadi",
+          "attributes": {
+            "partner": "Fida"
+          },
+          "children": [
+            {
+              "name": "Ilhan"
+            },
+            {
+              "name": "Iyad"
+            }
+          ]
+        },
+        {
+          "name": "Hamdi",
+          "attributes": {
+            "partner": "Amna"
+          },
+          "children": []
+        },
+        {
+          "name": "Dana",
+          "attributes": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Hafsath",
+      "attributes": {
+        "partner": "Ashraf Malik"
+      },
+      "children": [
+        {
+          "name": "Yameena",
+          "attributes": {
+            "partner": "Sufaid Ali"
+          },
+          "children": []
+        },
+        {
+          "name": "Aimen",
+          "attributes": {
+            "partner": "Shibna"
+          },
+          "children": []
+        },
+        {
+          "name": "Ashfaq",
+          "attributes": {},
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Abid Ali"
+    }
+  ]
+}
