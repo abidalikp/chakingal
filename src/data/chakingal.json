@@ -110,7 +110,13 @@
           "attributes": {
             "partner": "Fathima"
           },
-          "children": []
+          "children": [
+            {
+              "name": "Zahra",
+              "attributes": {},
+              "children": []
+            }
+          ]
         },
         {
           "name": "Souban",
@@ -238,7 +244,7 @@
               "name": "Hami"
             },
             {
-              "name": "Hamthim"
+              "name": "Hathim"
             }
           ]
         },

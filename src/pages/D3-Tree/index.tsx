@@ -1,4 +1,4 @@
-import Tree from "react-d3-tree";
+import Tree, { CustomNodeElementProps } from "react-d3-tree";
 import { useCenteredTree } from "./helpers";
 import chakingalTree from "../../data/chakingal.json";
 
@@ -10,8 +10,11 @@ interface treeProps {
 
 const treeData: treeProps = chakingalTree;
 
-const renderRectSvgNode = ({ nodeDatum, toggleNode }: any) => (
-  <g onClick={toggleNode}>
+const renderRectSvgNode = ({
+  nodeDatum,
+  toggleNode,
+}: CustomNodeElementProps) => (
+  <g className="" onClick={toggleNode}>
     <foreignObject width={130} height={120} x={-65}>
       <div className="p-1 text-center bg-white border rounded-lg shadow line-clamp-1">
         {nodeDatum.name}
