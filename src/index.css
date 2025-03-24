@@ -1,17 +1,47 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --raw-primary: rgb(255, 255, 255);
+  --primary: rgb(250, 250, 249);
+  --primary-2: rgb(245, 245, 244);
+  --primary-3: rgb(231, 229, 228);
+  --primary-4: rgb(214, 211, 209);
+  --primary-5: rgb(168, 162, 158);
+  --secondary-5: rgb(87, 83, 78);
+  --secondary-4: rgb(68, 64, 60);
+  --secondary-3: rgb(41, 37, 36);
+  --secondary-2: rgb(28, 25, 23);
+  --secondary: rgb(12, 10, 9);
+  --raw-secondary: rgba(0, 0, 0);
+}
+
+.light {
+  --raw-primary: rgba(0, 0, 0);
+  --primary: rgb(12, 10, 9);
+  --primary-2: rgb(28, 25, 23);
+  --primary-3: rgb(41, 37, 36);
+  --primary-4: rgb(68, 64, 60);
+  --primary-5: rgb(87, 83, 78);
+  --secondary-5: rgb(168, 162, 158);
+  --secondary-4: rgb(214, 211, 209);
+  --secondary-3: rgb(231, 229, 228);
+  --secondary-2: rgb(245, 245, 244);
+  --secondary: rgb(250, 250, 249);
+  --raw-secondary: rgb(255, 255, 255);
+}
